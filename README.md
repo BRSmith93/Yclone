@@ -1,4 +1,4 @@
-## Cloning Yahoo tanpa kena Checkpoint
+## Cloning Yahoo
 ![YahooCloning](https://raw.githubusercontent.com/N74NK/Yclone/master/thumb.png)
 ### Instalasi 
 ```
@@ -8,5 +8,3 @@ $ cd Yclone
 $ pip2 install -r requirements.txt
 $ python2 yclone.py
 ```
-Support terus ya cuk!
-Subs juga yt gua [Njank Soekamti](http://bit.ly/YtAdminTI3)
